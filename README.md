@@ -1,7 +1,7 @@
 # EloyBarbosa_TP1_Calculadora
 TP1 de Fundamentos de Desenvolvimento com C#
 
-##ENUNCIADO
+## ENUNCIADO
 
 Nas etapas 1 e 2 de Fundamentos de Desenvolvimento com C#, você entendeu o que é o .NET Framework e se ambientou com o Visual Studio. Também viu os diferentes projetos que podemos criar utilizando esse IDE e aprendeu como criar aplicações simples com C#.
 
